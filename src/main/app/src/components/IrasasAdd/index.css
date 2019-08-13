@@ -1,0 +1,9 @@
+.formlaukas{
+  display: flex;
+  align-content: center;
+  padding-top: 10px;
+}
+.mygtuk {
+  align-self:center;
+  margin-top: 10px;
+}

@@ -1,0 +1,7 @@
+drop table if exists greetings;
+create table greetings
+(
+   name varchar(255) not null,
+   greeting varchar(255) not null,
+   primary key(name)
+);
